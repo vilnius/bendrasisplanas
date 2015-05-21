@@ -1,2 +1,9 @@
-# bendrasisplanas
-Vilniaus miesto bendrojo plano duomenys
+# Vilniaus miesto bendrojo plano duomenys
+
+Pateikiami vektoriniai Vilniaus plano duomenys.
+
+Vilniaus miesto bendrasis planas iki 2015 nurodo miesto teritorinės plėtros gaires planuojamam laikotarpiui. Jis aiškiai nubrėžia Vilniaus miesto vystimosi kryptis, plėtros prioritetus. Tai – planas, skirtas bendrai mieste gyvenančių žmonių ateičiai, kuris parengtas visuomenėje pasiekto konsensuso dėl miesto ateities pagrindu. Nors atskiri plano elementai gali būti įgyvendinti skirtingais laiko tarpais, tačiau bendra  miesto vizija bei pagrindiniai principai išlieka pastovūs. Šis bendrasis planas parengtas taip, kad užtikrintų pradėtų planavimo darbų ir statybų tęstinumą, garantuotų investicijų stabilumą. Kiti jau patvirtinti miesto teritorijų planavimo dokumentai (specialieji, detalieji planai) papildo bendrąjį planą.
+
+Lietuvos kontekste, Vilnius yra didžiausias miestas, turintis sudėtingą inžinierinį ūkį ir gana dispersišką, neišbaigtą urbanistinę struktūrą. Miestas išsidėstęs vaizdingoje gamtinėje aplinkoje, pasaulyje garsus savo kultūros paveldu. Jo ateitis susijusi su nuolatos vykstančiais urbanizacijos procesais, atviros rinkos pokyčiais ir evoliucija, kuri sukuria daugybę situacijų ir galimų sprendimų. Bendrasis planas pateikia apibendrintus sprendinius. Kai kurioms miesto teritorijoms, ypač ten kur numatyta nauja plėtra, reikės detalesnių sprendinių nei pateikta plane, todėl parengus bendrąjį planą būtini žemesnio lygmens planai (specialieji planai, detalieji planai), plėtros koncepcijos ar studijos.
+
+http://vilniausplanas.lt/lt/projektai/bendrieji-planai/vilniaus-bendrasis-planas-iki-2015/
